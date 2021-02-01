@@ -714,3 +714,7 @@ Here is a wire diagram for this situation:
 ---
 
 END OF GUIDE
+
+---
+
+## I had one user report a problem with 14 Example 4. Here is the link to that discussion and the solution I proivded him: https://github.com/bigtreetech/BIGTREETECH-SKR-PRO-V1.1/issues/179#issuecomment-763435092
